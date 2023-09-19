@@ -1,0 +1,2 @@
+project_id = "mine-it-399017"
+region     = "us-central1"
